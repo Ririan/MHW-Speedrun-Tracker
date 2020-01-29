@@ -1,0 +1,27 @@
+{
+  "name": "mhw-speedrun-tracker",
+  "version": "1.0.0",
+  "description": "A MHW Speedrun Tracker for my personal discord server.",
+  "main": "entry.js",
+  "dependencies": {
+    "eris": "^0.11.2",
+    "mysql": "github:mysqljs/mysql"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ririan/MHW-Speedrun-Tracker.git"
+  },
+  "keywords": [
+    "MHW"
+  ],
+  "author": "Ririan",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Ririan/MHW-Speedrun-Tracker/issues"
+  },
+  "homepage": "https://github.com/Ririan/MHW-Speedrun-Tracker#readme"
+}
